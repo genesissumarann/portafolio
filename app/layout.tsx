@@ -5,8 +5,6 @@ import Footer from "@/components/layout/Footer";
 
 const font = Inter({ subsets: ["latin"] });
 
-
-
 export default function RootLayout({
   children,
 }: Readonly<{
