@@ -11,7 +11,7 @@ const Hero = () => {
                 Genesis Sumaran
                 <br />
                 <span className="text-yape-purple">
-                  Desarrolladora frontend Junior
+                  Aprendiz de Next
                 </span>
               </h1>
               <p className="mt-6 text-lg leading-8 text-zinc-600">
